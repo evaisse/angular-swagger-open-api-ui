@@ -1,2 +1,5 @@
-# angular-swagger-open-api-ui
-An angular based swagger-ui open-api client
+OpenAPI UI
+====
+
+An open api console frontend with react & json-schema based forms
+
